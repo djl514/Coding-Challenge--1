@@ -15,6 +15,7 @@ const productDetails = {
     price: 300,
     inStock: true,
     name: products
+    
 };
 
 console.log(products, productDetails);
